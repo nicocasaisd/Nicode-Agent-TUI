@@ -9,7 +9,7 @@ I used it as a conceptual guide for the core agent loop (LLM + tools + iteration
 
 Mainly because it was fun. Writing an agent harness from scratch and going from zero to an actually useful tool makes you realize about how simple yet powerful an AI agent can be.
 
-I wanted to  understand how real agent workflows work under the hood: 
+I wanted to  understand how real agents work under the hood: 
 - How context is handled in a harness
 - How to create tools that the model can use
 - How to structure an iterative agent loop for multi-step tasks
